@@ -2,7 +2,7 @@
 layout: page
 title: Info
 permalink: /info/
-image: '/images/couples-dancing-on-beach.png'
+image: '/images/couple-dancing-on-beach.png'
 ---
 
 ## email

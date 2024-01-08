@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Taustaa
 permalink: /about/
 image: '/images/couple-dancing-on-dunes.png'
 ---

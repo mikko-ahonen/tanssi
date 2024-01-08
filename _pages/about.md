@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 image: '/images/couple-dancing-on-dunes.png'
 ---
-# Mikko Ahonen - Tanssinopetusta sydämellä.
+# Tanssinopetusta sydämellä
 
 Ajattelen, että tanssi on liikettä musiikkiin. Paritanssi on siis liikettä musiikkiin, yhdessä parin kanssa. 
 Koska kaikki me osaamme jo kävellä, osaamme myös tanssia.

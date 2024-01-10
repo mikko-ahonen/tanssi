@@ -20,15 +20,15 @@ Suurin osa alkeistanssikurssien oppilaista, varsinkin miehistä, on kuitenkin sa
 älyllisesti suuntautuneita. 
 
 Askeliin pohjautuva opetustapa saa älyllisesti suuntautuneen miettimään
-askeleita, sen sijaan että kokisi mahdollisimman nopeasti siltä 
+askeleita, sen sijaan että hän kokisi mahdollisimman nopeasti siltä 
 miltä tanssi tuntuu.  Opettajat ovat usein kinesteettisesti lahjakkaita,
 eivätkä välttämättä osaa asettua älyllisesti suuntautuneen oppilaan housuihin.
 Olen oppinut tanssimaan kantapään kautta, jotta sinun ei tarvitsisi.
 
 Jos kehoa yrittää hallita älyllä, tarvitaan lyhyttä muistikapasiteettia, johon mahtuu vain 6-10 asiaa.
-Äly on myös liian hidas ja kömpelö sellaiseen hienomotoriikkaan, jota tanssi tarvitsee. Tämän voi havaita
-kokeilemalla mikromanageerata kehoaan kun yrittää nostaa lusikan pöydältä.
+Äly on myös liian hidas ja kömpelö sellaiseen hienomotoriikkaan, jota tanssissa tarvitaan. Tämän voi havaita
+kokeilemalla hallita analyyttisellä mielellä kehoaan kun yrittää nostaa lusikan pöydältä.
 
-Opetustavassani tanssista karsitaan pois kaikki ylimääräinen. Erityisesti älyllisesti suuntautuneet 
+Opetustavassani tanssista karsitaan pois kaikki ylimääräinen. Silloin varsinkin älyllisesti suuntautuneet 
 oppilaat oppivat tanssimaan helpommin ja nopeammin. Jäljelle jää vain kaikkein välttämättömin, se miltä tuntuu
 kun liikkuu musiikkiin.

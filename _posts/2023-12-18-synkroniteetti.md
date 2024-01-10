@@ -3,7 +3,7 @@ layout: post
 title:  Synkroniteetti
 description: Synkroniteetti
 date:   2023-12-18 12:00:00 +0300
-image:  '/images/110.jpg'
+image:  '/images/school-of-fish.png'
 seotags: [synkroniteetti]
 tags:   [synkroniteetti]
 ---

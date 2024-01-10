@@ -1,7 +1,7 @@
 --
 layout: post
-title:  Hiljainen Enemmistö
-description: Hiljainen Enemmistö
+title:  Hiljainen enemmistÖ
+#description: Hiljainen enemmistÖ
 date:   2022-08-30 12:00:00 +0300
 image:  '/images/silent.png'
 seotags: [tanssi]

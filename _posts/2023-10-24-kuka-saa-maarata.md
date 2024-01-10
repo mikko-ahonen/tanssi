@@ -23,9 +23,8 @@ Tästä voimme päätellä, että ainakin teoriassa voi olla sellaisiakin tapoja
 
 Aktiivista seuraamista opetetaan ilmauksella “mies ehdottaa, nainen tulkitsee”. Tämä ilmaus pitää sisällään ääneenlausumattoman käsityksen siitä minkälaisia kognitiivisia prosesseja ihmisessä tapahtuu tanssin aikana.
 
-<p style="text-align: center;">
 ![Viejä ehdottaa, seuraaja tulkitsee](/images/aktiivinen-seuraaminen.png)
-<i>Viejä ehdottaa, seuraaja tulkitsee</i></p>
+<p style="text-align: center;"><i>Viejä ehdottaa, seuraaja tulkitsee</i></p>
 
 Tulkitseminen on useimmille meistä älyllinen prosessi. Kiteytettynä tässä filosofiassa viejällä on jonkinlainen ajatus siitä mitä olemme tekemässä, ja hän tekee sen mukaisen ehdotuksen. Useimmat käsittävät aktiivisen seuraamisen siten, että seuraaja tuntee ehdotuksen kinesteettisesti kehossaan, havaitsee älyllisesti mikä ehdotus on ollut, keksii ehdotukselle älyllisesti sopivan tulkinnan, ja muuttaa tulkinnan kehon liikkeeksi. Viejä seuraa seuraajan tulkintaa. Yksi olennainen seuraus on, että tässä tanssitavassa on aina selvä, havaittava viive ehdotuksen ja tulkinnan välillä.
 
@@ -36,7 +35,7 @@ Samalla kuitenkin tapa, jolla jolla puhumme tanssista, hämärtää sitä, että
 Itse olen kokenut omimmaksi tanssin muodoksi kolmannen, tunneyhteyteen perustuvan tanssin. Se on minulle helpointa kokea suljetun otteen tansseissa, ehkä parhaimmillaan kizomban perinteisissä muodoissa. Tosin joskus yhteys tuntuu löytyvän helpommin kädenalitansseissa.
 
 ![Tunneyhteyteen pohjautuva tanssi](/images/tunneyhteystanssi.png)
-<p style="text-align: center;">Tunneyhteyteen pohjautuva tanssi</p>
+<p style="text-align: center;"><i>Tunneyhteyteen pohjautuva tanssi</i></p>
 
 Tässä tanssin muodossa olennaista ei ole se miten määräysvalta jakaantuu. Parin yhteisenä tavoitteena on mahdollisimman syvä tunneyhteys, joka syntyy kun liikumme yhdessä. Joskus puhutaan kokemuksesta, jossa koemme kuin olisimme yksi eläin jolla on yksi pää ja neljä jalkaa.
 

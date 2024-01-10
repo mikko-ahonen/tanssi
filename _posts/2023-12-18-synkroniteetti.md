@@ -27,7 +27,7 @@ Jung kirjoitti paljon muurahaiskeoista. Nykyajattelun valossa muurahaiset eivät
 
 Samaa ilmenee muillakin eläimillä, esimerkiksi kalat ja linnut muodostavat parvia, jotka näyttävät visuaalisesti siltä kuin ne toimisivat yhtenä organismina. Nykyisin ajatellaan tällaisen isomman muodostelman syntyvän esim. kaloilla niiden kyljissä olevien neurosolujen avulla. Neurosolut kopioivat muiden solujen, kaloilla naapurikalan, toimintaa. Yleisesti hyväksyttyä tieteellistä teoriaa joka selittäisi vaikkapa muurahaisten monimutkaista yhteistoimintaa ei ole kuitenkaan vielä olemassa.
 
-[![Massive School of Fish](/images/massive-school-of-fish-preview.png))](https://www.youtube.com/watch?v=aSnKX1Hz3tY "Massive School of Fish")
+[![Massive School of Fish](/images/massive-school-of-fish-preview.png)](https://www.youtube.com/watch?v=aSnKX1Hz3tY "Massive School of Fish")
 
 Ilmiselvänä erona muurahaiskekoon on tietenkin se, että meille muurahaiset ilmiselvästi näyttävät erillisiltä yksilöiltä, samaan tapaan kuin ihmiset. Mikä siis yhdistää muurahaiskeon muurahaisia? Yhdistävä tekijä on meille näkymätön. Jung ja Pauli näyttävät ajatelleen, että tietyssä mielessä voimme sanoa, että niillä on jonkinlainen yhteinen näkymätön ydin.
 

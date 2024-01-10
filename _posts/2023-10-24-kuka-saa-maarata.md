@@ -3,7 +3,7 @@ layout: post
 title:  Kuka saa määrätä?
 description: Kuka saa määrätä tanssissa?
 date:   2023-10-24 12:00:00 +0300
-image:  '/images/woman-leading.png'
+image:  '/images/womanleading.png'
 seotags: [vise]
 tags:   [vise]
 ---

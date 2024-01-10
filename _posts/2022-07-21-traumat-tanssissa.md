@@ -3,7 +3,7 @@ layout: post
 title:  Traumat tanssissa
 description: Traumat tanssissa
 date:   2022-07-21 12:00:00 +0300
-image:  '/images/110.jpg'
+image:  '/images/traumas-in-dancing.png'
 seotags: [trauma]
 tags:   [trauma]
 ---

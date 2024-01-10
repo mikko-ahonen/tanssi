@@ -3,7 +3,7 @@ layout: post
 title:  Kuka saa määrätä?
 description: Kuka saa määrätä tanssissa?
 date:   2023-10-24 12:00:00 +0300
-image:  '/images/110.jpg'
+image:  '/images/woman-leading.jpg'
 seotags: [vise]
 tags:   [vise]
 ---
@@ -64,7 +64,7 @@ Samojen lähteiden mukaan liikkeeseen ja tunteeseen pohjautuvan toiminnan välin
 Tätä nopeuseroa vasten on helpompi ymmärtää, mitä godan-testissä tapahtuu. Opettajalla on ennen lyöntiä intentio lyödä miekalla. Jos oppilas pystyy tuntemaan intention, hän ehtii väistää sillä aikaa kun opettajan intentio muuttuu fyysiseksi liikkeeksi.
 
 ![Tanssitapojen nopeuserot](/images/nopeudet.png)
-<p style="text-align: center;">Joidenkin itämaisten traditioiden käsitys eri tyyppisen toiminnan nopeuseroista sovellettuna paritanssiin</p>
+<p style="text-align: center;"><i>Joidenkin itämaisten traditioiden käsitys eri tyyppisen toiminnan nopeuseroista sovellettuna paritanssiin</i></p>
 
 Kirjassa Inner Game of Tennis puhutaan tästä erosta huippu-urheilijoiden valmennuksen yhteydessä. Esimerkiksi tennislyöntiä treenatessa jää helposti jumiin tilaan, jossa lyönnin hienomotoriikkaa pyrkii koko ajan korjaamaan analyyttisen mielen avulla. Huippu-urheilun tasolla se ei toimi, eikä edes kehon kinesteettinen liike välttämättä riitä, vaan äärimmäisiin suorituksiin voidaan tarvita myös flow-tilaa.
 

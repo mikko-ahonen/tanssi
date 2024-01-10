@@ -23,9 +23,9 @@ Tästä voimme päätellä, että ainakin teoriassa voi olla sellaisiakin tapoja
 
 Aktiivista seuraamista opetetaan ilmauksella “mies ehdottaa, nainen tulkitsee”. Tämä ilmaus pitää sisällään ääneenlausumattoman käsityksen siitä minkälaisia kognitiivisia prosesseja ihmisessä tapahtuu tanssin aikana.
 
+<p style="text-align: center;">
 ![Viejä ehdottaa, seuraaja tulkitsee](/images/aktiivinen-seuraaminen.png)
-
-<p style="text-align: center;">Viejä ehdottaa, seuraaja tulkitsee</p>
+<i>Viejä ehdottaa, seuraaja tulkitsee</i></p>
 
 Tulkitseminen on useimmille meistä älyllinen prosessi. Kiteytettynä tässä filosofiassa viejällä on jonkinlainen ajatus siitä mitä olemme tekemässä, ja hän tekee sen mukaisen ehdotuksen. Useimmat käsittävät aktiivisen seuraamisen siten, että seuraaja tuntee ehdotuksen kinesteettisesti kehossaan, havaitsee älyllisesti mikä ehdotus on ollut, keksii ehdotukselle älyllisesti sopivan tulkinnan, ja muuttaa tulkinnan kehon liikkeeksi. Viejä seuraa seuraajan tulkintaa. Yksi olennainen seuraus on, että tässä tanssitavassa on aina selvä, havaittava viive ehdotuksen ja tulkinnan välillä.
 
@@ -46,7 +46,7 @@ Tunneyhteyden välittämään intentioon perustuva tanssi tuntuu maagiselta, jos
 
 Samanlaisia kokemuksia voi löytää myös kamppailulajeista. Esimerkiksi Bujinkan ninjutsussa on viidennen asteen mustan vyön kokeessa godan-testi, jossa oppilas istuu maassa silmät sidottuna selin opettajaan. Opettaja lyö oppilasta ylhäältä päähän miekalla, ja oppilaan tehtävä on väistää kun hän tuntee opettajan lyövän. Perinteisesti koe on tehty oikealla miekalla, mutta nykyisin käytetään kai puumiekkaa. Ja harjoitellessa jotain pehmeämpää.
 
-[![Ninja Godan Test](http://img.youtube.com/vi/wfpIwjtJL0I/0.jpg)](https://www.youtube.com/watch?v=wfpIwjtJL0I "Ninja Godan Test")
+[![Ninja Godan Test](/images/ninja-godan-preview.png)](https://www.youtube.com/watch?v=wfpIwjtJL0I "Ninja Godan Test")
 
 Taijissa intentiota testataan kokeella, jossa koetta tekevä henkilö seisoo asennossa ja joukko muita henkilöitä (itse olen ollut kokeillut tätä viidellä henkilöllä) seisoo peräkkäin jonossa kädet toistensa hartioilla. Koetta tekevä kohdistaa intentiolla energiaa kohti jonoa. Viimeisinkin jonossa saattaa tuntea jonkinlaisen impulssin jonka seurauksena hän saattaa liikahtaa. Opettajat saavat viimeisenkin jonossa horjahtamaan ja ottamaan askeleen. Jos jonoa yrittää liikuttaa fyysisellä voimalla, siitä ei tule mitään.
 

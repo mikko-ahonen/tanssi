@@ -1,12 +1,13 @@
 --
 layout: post
 title:  Hiljainen enemmisto
-#description: Hiljainen enemmistÖ
+description: Hiljainen enemmistö
 date:   2022-08-30 12:00:00 +0300
 image:  '/images/silent.png'
 seotags: [tanssi]
 tags:   [tanssi]
 ---
+
 Tanssiystävä kertoi lopettaneensa tanssiaiheisten keskustelupalstojen lukemisen ja niille kirjoittamisen. Niistä ei kuulemma seuraa hyvää.
 
 Nixon ei ole kuuluisa hyväntekijä. Hän kuitenkin käytti mielenkiintoista ilmausta omasta kannatuksestaan: hiljainen enemmistö.

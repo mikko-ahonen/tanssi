@@ -3,7 +3,7 @@ layout: post
 title:  Hiljainen enemmistö
 description: Hiljainen enemmistö
 date:   2022-08-30 12:00:00 +0300
-image:  '/images/silent-majority.png'
+image:  '/images/silent.png'
 seotags: [hiljainen enemmistö]
 tags:   [hiljainen enemmistö]
 ---

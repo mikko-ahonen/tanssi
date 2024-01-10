@@ -1,11 +1,11 @@
 --
 layout: post
-title:  Hiljainen enemmistö
-description: Hiljainen enemmistö
+title:  Hiljainen Enemmistö
+description: Hiljainen Enemmistö
 date:   2022-08-30 12:00:00 +0300
 image:  '/images/silent.png'
-seotags: [hiljainen enemmistö]
-tags:   [hiljainen enemmistö]
+seotags: [tanssi]
+tags:   [tanssi]
 ---
 Tanssiystävä kertoi lopettaneensa tanssiaiheisten keskustelupalstojen lukemisen ja niille kirjoittamisen. Niistä ei kuulemma seuraa hyvää.
 

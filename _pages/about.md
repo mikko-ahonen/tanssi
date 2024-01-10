@@ -12,7 +12,7 @@ Koska kaikki me osaamme jo kävellä, osaamme myös tanssia.
 Kun liikumme parina yhdessä, saumattomasti, se saattaa tuntua jopa maagiselta. Itse koin paritanssissa ensimmäistä 
 kertaa sellaista yhteyttä, jota en ollut tuntenut aiemmin edes parisuhteissa.
 
-Vaikka sain tanssista jotain jota olin kaivannut, tanssin oppiminen oli minulle erittäin haastavaa. Myöhemmin
+Vaikka löysin tanssista jotain jota en tiennyt edes kaivanneeni, tanssin oppiminen oli minulle erittäin haastavaa. Myöhemmin
 olen ymmärtänyt, että se siitä, miten tanssia yleensä opetetaan.
 
 Tanssinopetus lähtee usein lajikohtaisista perusaskeleista. Ensimmäisenä opetetaan esimerkiksi vaihtoaskel.

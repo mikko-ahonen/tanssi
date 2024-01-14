@@ -55,11 +55,11 @@ Jatkuvassa tunneyhteydessä intentio välittyy molempiin suuntiin ja siksi se ma
 
 Keskeinen havaittava ero tunneyhteyteen pohjautuvassa eli yhteisen liikkeen tanssissa on, että että viennin ja seuraamisen välillä ei ole havaittavaa viivettä.
 
-Jossain itämaisissa traditioissa puhutaan siitä, että ihmisen kolme puolta (äly, liike ja tunteet) toimivat eri nopeuksilla. Ero älyyn pohjautuvan ja liikkeeseen pohjautuvan toiminnan välillä olisi näiden traditioiden mukaan 6000-kertainen.
+Jossain itämaisissa traditioissa puhutaan siitä, että ihmisen kolme puolta (äly, liike ja tunteet) toimivat eri nopeuksilla. Ero älyyn pohjautuvan ja liikkeeseen pohjautuvan toiminnan välillä olisi näiden traditioiden mukaan 30000-kertainen.
 
 Eron voi havaita, kun yrittää hallita kehoaan älyllisesti, esimerkiksi opettelemalla uusia askelkuvioista älyn kautta. Tai vielä yksinkertaisemmin, jos yrittää analyyttisellä mielellä kontrolloida kättään kun nostaa lusikkaa pöydältä. Analyyttinen mieli ei yksinkertaisesti sovellu kehon hienomotoriikan kontrollointiin.
 
-Samojen lähteiden mukaan liikkeeseen ja tunteeseen pohjautuvan toiminnan välinen nopeusero olisi samaa suuruusluokkaa, 6000-kertainen. Nopeus analyyttisestä mielestä lähtevän toiminnan ja tunteesta lähtevän toiminnan välillä olisi siis 6000 x 6000 eli 3 600 000. Oma kokemukseni tukee tätä käsitystä.
+Samojen lähteiden mukaan liikkeeseen ja tunteeseen pohjautuvan toiminnan välinen nopeusero olisi samaa suuruusluokkaa, 30000-kertainen. Nopeus analyyttisestä mielestä lähtevän toiminnan ja tunteesta lähtevän toiminnan välillä olisi siis 30000 x 30000 eli 900 000 000. Oma kokemukseni tukee tätä käsitystä.
 
 Tätä nopeuseroa vasten on helpompi ymmärtää, mitä godan-testissä tapahtuu. Opettajalla on ennen lyöntiä intentio lyödä miekalla. Jos oppilas pystyy tuntemaan intention, hän ehtii väistää sillä aikaa kun opettajan intentio muuttuu fyysiseksi liikkeeksi.
 

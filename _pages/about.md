@@ -4,7 +4,7 @@ title: Taustaa
 permalink: /about/
 image: '/images/couple-dancing-on-dunes.png'
 ---
-# Tanssinopetusta sydämellä
+# Tanssia sydämellä
 
 Ajattelen, että tanssi on liikettä musiikkiin. Paritanssi on siis liikettä musiikkiin, yhdessä parin kanssa. 
 Koska kaikki me osaamme jo kävellä, osaamme myös tanssia.
@@ -28,7 +28,3 @@ Olen oppinut tanssimaan kantapään kautta, jotta sinun ei tarvitsisi.
 Jos kehoa yrittää hallita älyllä, tarvitaan lyhyttä muistikapasiteettia, johon mahtuu vain 6-10 asiaa.
 Äly on myös liian hidas ja kömpelö sellaiseen hienomotoriikkaan, jota tanssissa tarvitaan. Tämän voi havaita
 kokeilemalla hallita analyyttisellä mielellä kehoaan kun yrittää nostaa lusikan pöydältä.
-
-Opetustavassani tanssista karsitaan pois kaikki ylimääräinen. Silloin varsinkin älyllisesti suuntautuneet 
-oppilaat oppivat tanssimaan helpommin ja nopeammin. Jäljelle jää vain kaikkein välttämättömin, se miltä tuntuu
-kun liikkuu musiikkiin.

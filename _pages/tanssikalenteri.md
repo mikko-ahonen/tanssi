@@ -5,8 +5,6 @@ permalink: /music/
 image: '/images/couple-dancing-on-ice.png'
 ---
 
-Olen kehittämässä tanssi.netiä korvaavaa kalenteria, joka tulee samaan osoitteeseen.
+Olen kehittänyt tanssijoiden kalenterin, tanssi.netin.
 
-Pääset tutustumaan kehitteillä olevaan versioon osoitteesta:
-
-[http://tanssikalenteri.fly.dev](http://tanssikalenteri.fly.dev)
+[http://tanssi.net](http://tanssi.net)
